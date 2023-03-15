@@ -12,3 +12,7 @@ https://docs.python.org/3/library/stdtypes.html#sequence-types-list-tuple-range 
 https://docs.python.org/3/library/stdtypes.html#lists - Lists - Official python.org documentation for list operations and methods.
 
 https://docs.python.org/3/library/stdtypes.html#tuples - Tuples - Official python.org documentation for tuple operations and methods  
+
+https://docs.python.org/3/library/stdtypes.html#mapping-types-dict - Mapping Types — dict - Official python.org documentation for dictionary methods
+
+https://www.w3schools.com/python/python_dictionaries.asp - Python Dictionaries - Tutorial with interactive code blocks for practicing using dictionary methods and operations  
