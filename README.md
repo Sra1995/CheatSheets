@@ -24,3 +24,9 @@ Jupyter Notebook Tutorial, by [datacamp.com](https://www.datacamp.com/community/
 How to use Jupyter Notebooks, by [codeacademy.com](https://www.codecademy.com/articles/how-to-use-jupyter-notebooks)
 
 Teaching and Learning with Jupyter, by [university professors using Jupyter](https://jupyter4edu.github.io/jupyter-edu-book/)
+
+
+Supplemental Reading for Code Reuse
+The official Python documentation lists all the modules included in the standard library. It even has a turtle in it... 
+
+[Pypi](https://pypi.org/) is the Python repository and index of an impressive number of modules developed by Python programmers around the world. 
