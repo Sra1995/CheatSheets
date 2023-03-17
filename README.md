@@ -16,3 +16,11 @@ https://docs.python.org/3/library/stdtypes.html#tuples - Tuples - Official pytho
 https://docs.python.org/3/library/stdtypes.html#mapping-types-dict - Mapping Types — dict - Official python.org documentation for dictionary methods
 
 https://www.w3schools.com/python/python_dictionaries.asp - Python Dictionaries - Tutorial with interactive code blocks for practicing using dictionary methods and operations  
+
+Jupyter 101 Tut:
+
+Jupyter Notebook Tutorial, by [datacamp.com](https://www.datacamp.com/community/tutorials/tutorial-jupyter-notebook) 
+
+How to use Jupyter Notebooks, by [codeacademy.com](https://www.codecademy.com/articles/how-to-use-jupyter-notebooks)
+
+Teaching and Learning with Jupyter, by [university professors using Jupyter](https://jupyter4edu.github.io/jupyter-edu-book/)
