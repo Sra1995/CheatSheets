@@ -30,3 +30,6 @@ Supplemental Reading for Code Reuse
 The official Python documentation lists all the modules included in the standard library. It even has a turtle in it... 
 
 [Pypi](https://pypi.org/) is the Python repository and index of an impressive number of modules developed by Python programmers around the world. 
+
+* [Reading and Writing Files Cheat-Sheet](https://docs.python.org/3/library/functions.html#open)
+
